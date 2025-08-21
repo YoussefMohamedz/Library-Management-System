@@ -1,0 +1,5 @@
+﻿  C Project.c
+  library.c
+C:\C project\C Project\C Project\library.c(27,16): warning C4129: 'm': unrecognized character escape sequence
+  Generating Code...
+  C Project.vcxproj -> C:\C project\C Project\x64\Debug\C Project.exe
